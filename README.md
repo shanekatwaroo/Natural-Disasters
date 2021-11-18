@@ -7,7 +7,8 @@
 **analyze.py:** used to connect to SQL database and answer KPI's\
 **1970-2020_disasters.csv:** main dataset(downloaded from kaggle)\
 **disasters_cleaned.csv:** cleaned dataset used for project\
-**results.md:** final results with tableau visualizations\
+**kpi images**: folder containing SQL queries for answering KPI's as well as their results. 
+**results.md:** final results with tableau visualizations
 
 ## Sources
 - This project utilized a dataset that I found on kaggle. Here is the link to the dataset: 
